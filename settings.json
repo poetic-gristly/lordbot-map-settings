@@ -268,9 +268,9 @@
       false
     ],
     "typesToGather": [
-      true,
-      true,
-      true,
+      false,
+      false,
+      false,
       true,
       true,
       false
