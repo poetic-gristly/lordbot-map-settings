@@ -242,7 +242,7 @@
     ]
   },
   "gatherSettings": {
-    "gatherResources": false,
+    "gatherResources": true,
     "gatherLowestResources": false,
     "ignoreLevelForGems": true,
     "clearTiles": false,
