@@ -1,0 +1,48 @@
+{
+  "IGGID": "1625103499",
+  "IGG": 1625103499,
+  "AccessKey": "eyJha2lkIjoyMDIxMDQyMiwicmtpZCI6MjAyMTA0MjMsImciOjEwNTEwMjk5MDIsInYiOjN9.FBWSgNGa3ps53PzrTB2Rd_SmZ5WcYg1FJBK78IRjxivon9eJ-90fGDrnGQqk3e10AvRT1VxLT5qKDHT0FBipjuJ0cMVLQ4kY1TMUwdwaedlxR3f1xM2HWV5n_AbeECi_hKHhosA4_uzb0FLqgAEgahVq0OrWk62001vcKL4dpBI.i2POrpy3kgi502E6O5PPVF7XH3bmcLDzDaiS2qL-cTsKz2OXZyneAlenJpVhek9TkbROAjcSUuQH5Ga8-oB8yZZ2ItmVHPBbFvZ3hGSDc3y_efGnCuP0NrVbdbb7WOlETN3Ig-sPDZ9NqcFyxN3fu9XnvbU-ZRJym6w0k6cVXN8",
+  "Name": "ID.827868070",
+  "Nickname": "",
+  "KingdomID": 1315,
+  "Tag": "None",
+  "CreationIP": "",
+  "CreationUUID": "6832c6f2-ff74-4052-86ef-12f29aa3215c",
+  "CreationTime": "5/31/2023 8:22 PM",
+  "runAtStart": true,
+  "deviceInfo": {
+    "UUID": "6832c6f2-ff74-4052-86ef-12f29aa3215c",
+    "UDID": "2d8051ec-2ac6-49d1-9277-79a557c3ad01",
+    "ADID": "30ec5f14-a06a-47de-bf9b-761c85c0d97d",
+    "loginType": "guest",
+    "SerialNO": "icasd8wv",
+    "BuildNO": "ZE3ENH",
+    "Operator": "T-MOBILE",
+    "Manufacturer": "samsung",
+    "OS_Version": "10",
+    "Model": "Samsung Galaxy A8s",
+    "AndroidID": "9emfldjp5ib8r72h",
+    "Country": "BR",
+    "Timezone": "4.0",
+    "deviceSet": true
+  },
+  "bindInfo": {
+    "bindedEmail": "",
+    "bindedEmail_": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "bindType": "guest",
+    "activeToken": 0,
+    "googleToken": "",
+    "facebookToken": "",
+    "amazonToken": ""
+  },
+  "SSOToken": {
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6MjAxOTExMjJ9.eyJqdGkiOiI2NDc4MGYwNjQ3MzU1IiwiaWF0IjoxNjg1NTg5NDY2LCJleHAiOjE2ODU4NDg5NjYsImlzcyI6IjY5MjYwMGU3NDg3NjFmMmJlNTgxOGZkMDU3OTExM2YzIiwic3ViIjoiMTYyNTEwMzQ5OSIsImdhbWVJZCI6MTA1MTAyOTkwMiwidWRpZCI6IjUyNzIyMTQ2IiwidHlwZSI6Imd1ZXN0Iiwia2V5IjoiNjgzMmM2ZjItZmY3NC00MDUqKioqKioqKioqKioqKioqKipjIiwiZ2FtZSI6IkxPIiwiY2xpZW50SXAiOiI5Ni41NS40NC4xMjciLCJ2ZXJzaW9uIjoiMS4xIiwicGFja2FnZSI6IiJ9.J1nb9htOJ9Bjb4zJzc40hy1hLtPTaDszDQ8Hrn8Q7G3RMnzpD64ySn-rPLcN0gXByLAGJIbcgd4zXkfU0tGdUJ2jhvfUDVGQfcqM4yqeIX39gAUbO_92U2fMsETxp50XLUm92pzuNUql23vRvgcE9C-2SWmVRhgxNsL92cDIwhc",
+    "created_at": 1685589466,
+    "expires_at": 1685848966
+  }
+}
