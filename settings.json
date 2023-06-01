@@ -608,7 +608,24 @@
       0
     ]
   },
-  "heroData": null,
+  "heroData": [
+    {
+      "HeroID": 9,
+      "Level": 1,
+      "Exp": 0,
+      "Rank": 1,
+      "Enhanced": 1,
+      "Medals": 0
+    },
+    {
+      "HeroID": 1,
+      "Level": 1,
+      "Exp": 0,
+      "Rank": 1,
+      "Enhanced": 1,
+      "Medals": 0
+    }
+  ],
   "heroSettings": {
     "autoHireHeros": false,
     "autoUpgradeHeros": false,
